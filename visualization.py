@@ -1,4 +1,4 @@
-# graph.py
+# visualization.py
 # Graph Dev: Alex Islas
 # Date: 2-22-2025
 # Description: Generates a animation graph demonstrating the step-by-step progression of
